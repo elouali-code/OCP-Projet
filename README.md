@@ -50,6 +50,7 @@ Si vous souhaitez modifier les paramètres ou les calculs utilisés par le modè
 Pour arrêter l'application, retournez au terminal où elle est en cours d'exécution et appuyez sur **CTRL+C**. Cela arrêtera le serveur Flask.
 
 ## Support
-En cas de problème, veuillez contacter le développeur de l'application.
+En cas de problème, veuillez contacter le développeur du modèle et de l'application. Vous pouvez le joindre à l'adresse email suivante : abderrahmanelouali2@gmail.com, ou par téléphone au +33 752043670 (France) ou +212 670253045 (Maroc).
+
 
 © 2024 OCP Group. Tous droits réservés. | Data Engineer & Developer: El Ouail Abderrahman
