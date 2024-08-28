@@ -10,7 +10,7 @@ app.config['UPLOAD_FOLDER'] = 'uploads/'
 model = joblib.load('model_real.pkl')
 scaler = joblib.load('scaler_real.pkl')
 
-# Assurez-vous que le dossier 'uploads/' existe
+# Assurer que  dossier 'uploads/' existe
 if not os.path.exists(app.config['UPLOAD_FOLDER']):
     os.makedirs(app.config['UPLOAD_FOLDER'])
 
@@ -48,7 +48,7 @@ def upload_file():
             # Prédire la performance
             predictions = model.predict(X_normalized)
 
-            # Afficher les prédictions pour examen
+            # Afficher les prédictions 
             print("Prédictions du modèle:", predictions)
 
             # Calculer la moyenne des prédictions
